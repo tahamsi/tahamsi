@@ -24,39 +24,6 @@ I combine academic research with industry-facing work, and I am particularly int
 
 ---
 
-## Research Interests
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Computer Vision & Multimodal AI</h3>
-      <ul>
-        <li>Visual understanding and perception pipelines</li>
-        <li>Vision-language systems and multimodal integration</li>
-        <li>Applied CV for real-world settings</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>LLMs</h3>
-      <ul>
-        <li>RAG and orchestration patterns</li>
-        <li>Verifiable reasoning and evaluation</li>
-        <li>Applied LLM systems for domain tasks</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Responsible AI</h3>
-      <ul>
-        <li>Fairness, bias, and robustness</li>
-        <li>Explainability and transparency</li>
-        <li>Governance, auditing, and safe deployment</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Research
 
 <table>
@@ -82,8 +49,8 @@ I combine academic research with industry-facing work, and I am particularly int
           Verifiable reasoning and proof-carrying retrieval for long-context LLM workflows.
         </li>
         <li>
-          <a href="https://github.com/tahamsi/stateful_rag_orchestrator">stateful_rag_orchestrator</a><br/>
-          Stateful orchestration patterns for retrieval-augmented systems.
+          <a href="https://github.com/tahamsi/claim-conditioned-cad">claim-conditioned-cad</a><br/>
+          LLM-related research prototype for claim-conditioned workflows.
         </li>
       </ul>
     </td>
@@ -91,8 +58,8 @@ I combine academic research with industry-facing work, and I am particularly int
       <h3>Responsible AI</h3>
       <ul>
         <li>
-          <a href="https://github.com/tahamsi/trustworthy-ai-playbook">trustworthy-ai-playbook</a><br/>
-          Practical artefacts and guidance for trustworthy AI development.
+          <a href="https://github.com/tahamsi/instance-wise-explanation">instance-wise-explanation</a><br/>
+          Work on explainability and instance-level interpretation.
         </li>
         <li>
           <a href="https://github.com/tahamsi/fairfactor-temporal-fer">fairfactor-temporal-fer</a><br/>
@@ -110,20 +77,24 @@ I combine academic research with industry-facing work, and I am particularly int
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Computer Vision Labs</h3>
+      <h3>Applied Computer Vision</h3>
+      <ul>
+        <li>
+          <a href="https://github.com/tahamsi/computer-vision">computer-vision</a><br/>
+          Hands-on notebooks and examples for applied computer vision workflows.
+        </li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Labs</h3>
       <ul>
         <li>
           <a href="https://github.com/tahamsi/cnn-transformers-cv-labs">cnn-transformers-cv-labs</a><br/>
           Master's-level labs covering CNNs and Vision Transformers.
         </li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Practical Examples</h3>
-      <ul>
         <li>
-          <a href="https://github.com/tahamsi/computer-vision">computer-vision</a><br/>
-          Hands-on notebooks and examples for applied computer vision workflows.
+          <a href="https://github.com/tahamsi/trustworthy-ai-playbook">trustworthy-ai-playbook</a><br/>
+          Practical lab-ready materials and artefacts for trustworthy AI development.
         </li>
       </ul>
     </td>
@@ -134,46 +105,20 @@ I combine academic research with industry-facing work, and I am particularly int
 
 ## Supervision
 
-I welcome PhD enquiries and research collaboration in the following areas:
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Computer Vision & Multimodal AI</h3>
-      <ul>
-        <li>Explainable computer vision</li>
-        <li>Vision-language modelling</li>
-        <li>Fairness in visual systems</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>LLMs</h3>
-      <ul>
-        <li>Trustworthy LLM evaluation</li>
-        <li>RAG and auditable pipelines</li>
-        <li>Agentic AI for real-world tasks</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Responsible AI</h3>
-      <ul>
-        <li>AI governance and auditing</li>
-        <li>Bias, robustness, and transparency</li>
-        <li>Deployment-focused responsible AI</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+My supervision interests focus on AI, particularly computer vision, LLMs, and multimodal AI, with emphasis on trustworthy and ethically grounded real-world applications.
 
 ---
 
-## Research and Teaching Overview
+## Selected Outputs
 
-```mermaid
-flowchart LR
-    A[Responsible AI] --> D[Applied AI Systems]
-    B[LLMs] --> D
-    C[Computer Vision & Multimodal AI] --> D
-    D --> E[Research Prototypes]
-    D --> F[Teaching Labs]
-    D --> G[Supervision Topics]
+Selected publications and outputs are available via my university profile.
+
+- [University profile](https://www.salford.ac.uk/our-staff/taha-mansouri)
+
+---
+
+## Contact
+
+- [University profile](https://www.salford.ac.uk/our-staff/taha-mansouri)
+- [LinkedIn](https://www.linkedin.com/in/taha-mansouri-7969095a/)
+- Email: `t.mansouri@salford.ac.uk`
