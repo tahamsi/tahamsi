@@ -1,173 +1,179 @@
 # Taha Mansouri
 
-**Lecturer in AI | Responsible/Trustworthy AI · Computer Vision · LLMs & Multimodal AI | University of Salford**
+Lecturer in AI at the University of Salford  
+Computer Vision & Multimodal AI · LLMs · Responsible AI
 
-[![University of Salford](https://img.shields.io/badge/University%20of%20Salford-Lecturer%20in%20AI-7A003C?logo=academia&logoColor=white)](https://www.salford.ac.uk/our-staff/taha-mansouri)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1539--5546-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1539-5546)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20Mansouri-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-mansouri-7969095a/)
-[![GitHub followers](https://img.shields.io/github/followers/tahamsi?style=social)](https://github.com/tahamsi)
-
----
-
-## About Me
-
-I am a **Lecturer in Artificial Intelligence** at the **University of Salford**, working at the intersection of **Responsible/Trustworthy AI**, **Computer Vision**, and **LLMs / multimodal AI**.
-
-My work combines **academic research** with **industry-facing applied AI**, with an emphasis on systems that are **fair**, **explainable**, **robust**, and **deployable in real-world settings**.
-
-I hold dual PhDs in **Artificial Intelligence** and **Information Technology Management**, and I work across research, teaching, supervision, and collaborative innovation projects.
-
----
-
-## Current Focus
-
-- **Responsible / Trustworthy AI**  
-  Fairness, explainability, transparency, robustness, governance, auditing
-- **Computer Vision & Multimodal AI**  
-  Visual understanding, perception pipelines, applied vision systems
-- **LLMs and Agentic AI**  
-  Verifiable reasoning, retrieval-augmented systems, orchestration
-- **AI for Education**  
-  Assessment, learning support, curriculum design, monitoring tools
-- **Applied AI Translation**  
-  Industry collaboration, evaluation, prototyping, deployment-aware design
-
----
-
-## Selected Repositories (Organised by Theme)
-
-### Responsible / Trustworthy AI
-- [`trustworthy-ai-playbook`](https://github.com/tahamsi/trustworthy-ai-playbook)  
-  Practical playbook for ethical AI in SMEs (fairness, mitigation, explainability, model documentation).
-- [`instance-wise-explanation`](https://github.com/tahamsi/instance-wise-explanation)  
-  Work on explainability / instance-level interpretation.
-- [`fairfactor-temporal-fer`](https://github.com/tahamsi/fairfactor-temporal-fer)  
-  Fairness-aware temporal facial expression recognition.
-
-### LLMs, RAG, and Agentic Systems
-- [`aegisrag-poe`](https://github.com/tahamsi/aegisrag-poe)  
-  Proof-carrying retrieval system for long-context, verifiable LLM reasoning.
-- [`stateful_rag_orchestrator`](https://github.com/tahamsi/stateful_rag_orchestrator)  
-  Stateful orchestration patterns for retrieval-augmented systems.
-- [`agent-forge`](https://github.com/tahamsi/agent-forge)  
-  Policy-gated agent platform for controlled agent workflows.
-- [`llm-fine-tuning`](https://github.com/tahamsi/llm-fine-tuning)  
-  Practical LLM/VLM fine-tuning experiments and workflows.
-
-### Computer Vision & Multimodal AI
-- [`computer-vision`](https://github.com/tahamsi/computer-vision)  
-  Hands-on examples spanning classification, detection, segmentation, tracking, and generative methods.
-- [`cnn-transformers-cv-labs`](https://github.com/tahamsi/cnn-transformers-cv-labs)  
-  Master’s-level teaching labs for CNNs and Vision Transformers.
-- [`facial_expression_detection`](https://github.com/tahamsi/facial_expression_detection)  
-  Video-based facial expression analysis and detector sanity-checking workflows.
-- [`qwen-vl-caption-api`](https://github.com/tahamsi/qwen-vl-caption-api)  
-  Vision-language captioning API experiments.
-- [`vlm`](https://github.com/tahamsi/vlm), [`univlm`](https://github.com/tahamsi/univlm), [`blip-2`](https://github.com/tahamsi/blip-2), [`florence-2`](https://github.com/tahamsi/florence-2)  
-  Multimodal / VLM experimentation repos.
-
-### Privacy, Safety, and Robust Systems
-- [`cappa`](https://github.com/tahamsi/cappa)  
-  Prompt-driven inpainting system for privacy-preserving image/video processing.
-
----
-
-## Teaching & Learning Resources
-
-I share selected teaching and lab materials to support practical learning in AI and computer vision.
-
-- **Computer Vision examples and notebooks:** [`computer-vision`](https://github.com/tahamsi/computer-vision)
-- **CNNs & Vision Transformers labs (MSc-level):** [`cnn-transformers-cv-labs`](https://github.com/tahamsi/cnn-transformers-cv-labs)
-
-I aim to keep teaching resources reproducible, practical, and aligned with real-world AI engineering constraints.
-
----
-
-## Selected Publications (Short List)
-
-A small set of publications/outputs that align with the repositories and current research themes:
-
-- **Inclusive prompt engineering for large language models:** a modular framework for ethical, structured, and adaptive AI
-- **AIMA:** an agentic AI approach to vulnerability scanning of higher-education assessment
-- **A novel triplet loss architecture with visual explanation** for detecting unwanted bolt rotation in safety-critical environments
-
-**Full publication list:**  
-- [University profile](https://www.salford.ac.uk/our-staff/taha-mansouri)  
-- [Google Scholar](https://scholar.google.com/)  
-- [ORCID](https://orcid.org/0000-0003-1539-5546)
-
-> I keep the list short here so GitHub stays focused on code and reproducible artefacts rather than turning into a second CV.
-
----
-
-## Collaboration
-
-I welcome collaboration in:
-
-- Responsible / Trustworthy AI
-- Explainable AI and AI governance
-- Computer Vision and multimodal AI
-- LLMs / RAG / agentic AI (especially verifiable and auditable systems)
-- AI for Education
-
-I am also open to **PhD enquiries and research collaboration** in these areas.
-
-📩 **Contact / profiles**
-- [University profile](https://www.salford.ac.uk/our-staff/taha-mansouri)
-- [LinkedIn](https://www.linkedin.com/in/taha-mansouri-7969095a/)
-- Email: `t.mansouri@salford.ac.uk`
-
----
-
-## GitHub Visual Overview
-
-<!-- Useful visuals only. No spinning neon nonsense. -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahamsi&show_icons=true&hide_title=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer%20Vision-%26%20Multimodal%20AI-1f6feb" alt="Computer Vision and Multimodal AI" />
+  <img src="https://img.shields.io/badge/LLMs-Reasoning%20%26%20RAG-8250df" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Responsible%20AI-Fairness%20%26%20Explainability-0e8a16" alt="Responsible AI" />
+  <img src="https://img.shields.io/badge/University%20of%20Salford-Lecturer%20in%20AI-7A003C" alt="University of Salford" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamsi&layout=compact&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahamsi&hide_border=true" alt="GitHub activity graph" />
-</p>
+[University Profile](https://www.salford.ac.uk/our-staff/taha-mansouri) · [LinkedIn](https://www.linkedin.com/in/taha-mansouri-7969095a/) · [GitHub](https://github.com/tahamsi)
 
 ---
 
-## Research-to-Repository Map
+## About
+
+I am a Lecturer in Artificial Intelligence at the University of Salford, working across research, teaching, supervision, and applied AI projects.
+
+My work focuses on Computer Vision & Multimodal AI, LLMs, and Responsible AI, with an emphasis on systems that are explainable, robust, and suitable for real-world deployment.
+
+I combine academic research with industry-facing work, and I am particularly interested in trustworthy AI evaluation, multimodal systems, and practical learning resources for AI education.
+
+---
+
+## Research Interests
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Computer Vision & Multimodal AI</h3>
+      <ul>
+        <li>Visual understanding and perception pipelines</li>
+        <li>Vision-language systems and multimodal integration</li>
+        <li>Applied CV for real-world settings</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>LLMs</h3>
+      <ul>
+        <li>RAG and orchestration patterns</li>
+        <li>Verifiable reasoning and evaluation</li>
+        <li>Applied LLM systems for domain tasks</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Responsible AI</h3>
+      <ul>
+        <li>Fairness, bias, and robustness</li>
+        <li>Explainability and transparency</li>
+        <li>Governance, auditing, and safe deployment</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Research
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Computer Vision & Multimodal AI</h3>
+      <ul>
+        <li>
+          <a href="https://github.com/tahamsi/facial_expression_detection">facial_expression_detection</a><br/>
+          Video-based facial expression analysis and model-checking workflows.
+        </li>
+        <li>
+          <a href="https://github.com/tahamsi/qwen-vl-caption-api">qwen-vl-caption-api</a><br/>
+          Vision-language captioning experiments and API integration work.
+        </li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>LLMs</h3>
+      <ul>
+        <li>
+          <a href="https://github.com/tahamsi/aegisrag-poe">aegisrag-poe</a><br/>
+          Verifiable reasoning and proof-carrying retrieval for long-context LLM workflows.
+        </li>
+        <li>
+          <a href="https://github.com/tahamsi/stateful_rag_orchestrator">stateful_rag_orchestrator</a><br/>
+          Stateful orchestration patterns for retrieval-augmented systems.
+        </li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Responsible AI</h3>
+      <ul>
+        <li>
+          <a href="https://github.com/tahamsi/trustworthy-ai-playbook">trustworthy-ai-playbook</a><br/>
+          Practical artefacts and guidance for trustworthy AI development.
+        </li>
+        <li>
+          <a href="https://github.com/tahamsi/fairfactor-temporal-fer">fairfactor-temporal-fer</a><br/>
+          Fairness-aware temporal facial expression recognition.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Teaching
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Computer Vision Labs</h3>
+      <ul>
+        <li>
+          <a href="https://github.com/tahamsi/cnn-transformers-cv-labs">cnn-transformers-cv-labs</a><br/>
+          Master's-level labs covering CNNs and Vision Transformers.
+        </li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Practical Examples</h3>
+      <ul>
+        <li>
+          <a href="https://github.com/tahamsi/computer-vision">computer-vision</a><br/>
+          Hands-on notebooks and examples for applied computer vision workflows.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Supervision
+
+I welcome PhD enquiries and research collaboration in the following areas:
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Computer Vision & Multimodal AI</h3>
+      <ul>
+        <li>Explainable computer vision</li>
+        <li>Vision-language modelling</li>
+        <li>Fairness in visual systems</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>LLMs</h3>
+      <ul>
+        <li>Trustworthy LLM evaluation</li>
+        <li>RAG and auditable pipelines</li>
+        <li>Agentic AI for real-world tasks</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Responsible AI</h3>
+      <ul>
+        <li>AI governance and auditing</li>
+        <li>Bias, robustness, and transparency</li>
+        <li>Deployment-focused responsible AI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Research and Teaching Overview
 
 ```mermaid
-mindmap
-  root((Taha Mansouri))
-    Responsible / Trustworthy AI
-      Fairness
-      Explainability
-      Governance
-      Auditing
-      trustworthy-ai-playbook
-      instance-wise-explanation
-      fairfactor-temporal-fer
-    LLMs / Agentic AI
-      Verifiable reasoning
-      RAG orchestration
-      aegisrag-poe
-      stateful_rag_orchestrator
-      agent-forge
-      llm-fine-tuning
-    Computer Vision / Multimodal AI
-      Detection
-      Segmentation
-      FER
-      VLMs
-      computer-vision
-      cnn-transformers-cv-labs
-      facial_expression_detection
-      qwen-vl-caption-api
-    AI for Education
-      Assessment
-      Learning support
-      AIMA
+flowchart LR
+    A[Responsible AI] --> D[Applied AI Systems]
+    B[LLMs] --> D
+    C[Computer Vision & Multimodal AI] --> D
+    D --> E[Research Prototypes]
+    D --> F[Teaching Labs]
+    D --> G[Supervision Topics]
