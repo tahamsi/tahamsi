@@ -16,11 +16,7 @@ Computer Vision & Multimodal AI · LLMs · Responsible AI
 
 ## About
 
-I am a Lecturer in Artificial Intelligence at the University of Salford, working across research, teaching, supervision, and applied AI projects.
-
-My work focuses on Computer Vision & Multimodal AI, LLMs, and Responsible AI, with an emphasis on systems that are explainable, robust, and suitable for real-world deployment.
-
-I combine academic research with industry-facing work, and I am particularly interested in trustworthy AI evaluation, multimodal systems, and practical learning resources for AI education.
+I am a Lecturer in Artificial Intelligence at the University of Salford, working across research, teaching, and supervision. My work focuses on Computer Vision & Multimodal AI, LLMs, and Responsible AI, with an emphasis on systems that are explainable, robust, and suitable for real-world deployment. I combine academic research with industry-facing work, and I am particularly interested in trustworthy AI evaluation, multimodal systems, and AI to support education.
 
 ---
 
