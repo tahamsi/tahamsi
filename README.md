@@ -115,8 +115,8 @@ My supervision interests focus on AI, particularly computer vision, LLMs, and mu
 
 ## 📫 Contact
 
-<p>
-  <a href="https://www.salford.ac.uk/our-staff/taha-mansouri">🏫 University Profile</a> ·
-  <a href="https://www.linkedin.com/in/taha-mansouri-7969095a/">💼 LinkedIn</a> ·
-  <a href="mailto:t.mansouri@salford.ac.uk">✉️ Email</a>
+<p align="left">
+  <a href="https://www.salford.ac.uk/our-staff/taha-mansouri" title="University Profile">🏫</a>
+  <a href="https://www.linkedin.com/in/taha-mansouri-7969095a/" title="LinkedIn">💼</a>
+  <a href="mailto:t.mansouri@salford.ac.uk" title="Email">✉️</a>
 </p>
