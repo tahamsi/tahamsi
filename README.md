@@ -109,7 +109,6 @@ My supervision interests focus on AI, particularly computer vision, LLMs, and mu
 
 - [Inclusive prompt engineering for large language models: a modular framework for ethical, structured, and adaptive AI](https://link.springer.com/article/10.1007/s10462-025-11330-7)
 - [A novel triplet loss architecture with visual explanation for detecting the unwanted rotation of bolts in safety-critical environments](https://www.sciencedirect.com/science/article/pii/S095219762501098X)
-- [IEEE Xplore publication](https://ieeexplore.ieee.org/abstract/document/9801817)
 - [Learning Fuzzy Cognitive Maps with modified asexual reproduction optimisation algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0950705118304854)
 
 ---
