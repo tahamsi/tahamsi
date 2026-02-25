@@ -14,13 +14,13 @@ Computer Vision & Multimodal AI · LLMs · Responsible AI
 
 ---
 
-## About
+## 👋 About
 
 I am a Lecturer in Artificial Intelligence at the University of Salford, working across research, teaching, and supervision. My work focuses on Computer Vision & Multimodal AI, LLMs, and Responsible AI, with an emphasis on systems that are explainable, robust, and suitable for real-world deployment. I combine academic research with industry-facing work, and I am particularly interested in trustworthy AI evaluation, multimodal systems, and AI to support education.
 
 ---
 
-## Research
+## 🔬 Research
 
 <table>
   <tr>
@@ -68,7 +68,7 @@ I am a Lecturer in Artificial Intelligence at the University of Salford, working
 
 ---
 
-## Teaching
+## 🧑‍🏫 Teaching
 
 <table>
   <tr>
@@ -99,22 +99,25 @@ I am a Lecturer in Artificial Intelligence at the University of Salford, working
 
 ---
 
-## Supervision
+## 🎓 Supervision
 
 My supervision interests focus on AI, particularly computer vision, LLMs, and multimodal AI, with emphasis on trustworthy and ethically grounded real-world applications.
 
 ---
 
-## Selected Outputs
+## 📄 Selected Outputs
 
-Selected publications and outputs are available via my university profile.
-
-- [University profile](https://www.salford.ac.uk/our-staff/taha-mansouri)
+- [Inclusive prompt engineering for large language models: a modular framework for ethical, structured, and adaptive AI](https://link.springer.com/article/10.1007/s10462-025-11330-7)
+- [A novel triplet loss architecture with visual explanation for detecting the unwanted rotation of bolts in safety-critical environments](https://www.sciencedirect.com/science/article/pii/S095219762501098X)
+- [IEEE Xplore publication](https://ieeexplore.ieee.org/abstract/document/9801817)
+- [Learning Fuzzy Cognitive Maps with modified asexual reproduction optimisation algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0950705118304854)
 
 ---
 
-## Contact
+## 📫 Contact
 
-- [University profile](https://www.salford.ac.uk/our-staff/taha-mansouri)
-- [LinkedIn](https://www.linkedin.com/in/taha-mansouri-7969095a/)
-- Email: `t.mansouri@salford.ac.uk`
+<p>
+  <a href="https://www.salford.ac.uk/our-staff/taha-mansouri">🏫 University Profile</a> ·
+  <a href="https://www.linkedin.com/in/taha-mansouri-7969095a/">💼 LinkedIn</a> ·
+  <a href="mailto:t.mansouri@salford.ac.uk">✉️ Email</a>
+</p>
